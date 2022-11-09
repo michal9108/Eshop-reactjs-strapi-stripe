@@ -1,6 +1,6 @@
 # Ecommerce website - Women clothes ReactJS + Strapi + Stripe + Firebase 
 
-<a href="https://reactjs-eshop-clothes.web.app/" target="_blank"> <img src="https://github.com/michal9108/media/blob/af1cdaf0f376fa14b26a34a48cb78e89df744cb1/kenvo.gif" width="75%" height="75%"/>
+<a href="https://reactjs-eshop-clothes.web.app/" target="_blank"> <img src="https://github.com/michal9108/media/blob/af1cdaf0f376fa14b26a34a48cb78e89df744cb1/kenvo.gif" width="75%" height="75%" align="center"/>
 </a>
 
 
